@@ -1,0 +1,15 @@
+highline --version 1.5.1
+authlogic --version 2.1.3
+authlogic-oid --version 1.0.4
+activemerchant --version 1.5.1
+activerecord-tableless --version 0.1.0
+less --version 1.2.20
+stringex --version 1.0.3
+chronic --version 0.2.3
+whenever --version 0.3.7
+searchlogic --version 2.3.5
+will_paginate --version 2.3.14
+state_machine --version 0.8.0
+faker --version 0.3.1
+paperclip --version  '>=2.3.1.1'
+ruby-openid --version '>=2.0.4'
